@@ -1,0 +1,4 @@
+customtkinter
+screen_brightness_control
+Pillow
+pyinstaller
