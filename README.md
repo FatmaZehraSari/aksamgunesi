@@ -48,7 +48,7 @@ This switching happens automatically and requires no user intervention.
 Python is not required for the end user.
 
 1. Open the **Releases** section on the right side of the repository.
-2. Download `AksamGunesi.exe`.
+2. Download `aksam_gunesi.exe`.
 3. Run the application directly.
 
 ---
